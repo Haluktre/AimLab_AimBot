@@ -5,18 +5,9 @@ from PIL import ImageGrab
 import time
 import imutils
 
-print("6")
-time.sleep(1)
-print("5")
-time.sleep(1)
-print("4")
-time.sleep(1)
-print("3")
-time.sleep(1)
-print("2")
-time.sleep(1)
-print("1")
-time.sleep(1)
+for i in range(5):
+    print(i)
+    time.sleep(1)
 
 starttime = time.time()
 m_x = 960
@@ -37,7 +28,7 @@ while True:
     upper = np.array([75,255,255])
 
     mask = cv2.inRange(hsv, lower, upper)
-    green = cv2.bitwise_and(im,im,mask = mask)
+    #green = cv2.bitwise_and(im,im,mask = mask)
 
     cnts = cv2.findContours(mask.copy(), cv2.RETR_EXTERNAL,
                             cv2.CHAIN_APPROX_SIMPLE)
