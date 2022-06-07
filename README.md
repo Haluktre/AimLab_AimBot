@@ -9,3 +9,8 @@
   Green color filter
   
 ![green_mask](https://user-images.githubusercontent.com/44750494/172468651-662575fc-18f6-4394-80c7-46d65de539a4.gif)
+
+
+In this way, I became the 2nd in the world in the weekly ranking in the game. :D
+
+![20220607230635_1](https://user-images.githubusercontent.com/44750494/172473393-b4a1bd30-20bd-4a83-925b-ceba928b4bba.jpg)
