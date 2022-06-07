@@ -1,6 +1,6 @@
 # AimLab_AimBot
   Aiming bot with image processing
 
+![draw_circle](https://user-images.githubusercontent.com/44750494/172468388-622d4967-7d5f-47df-bf41-1fea0dea4dba.gif)
 
-https://user-images.githubusercontent.com/44750494/172457576-c1989ecf-5adf-424c-b01c-c3ad208aed33.mp4
 
